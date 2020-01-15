@@ -1,4 +1,4 @@
-<h2>Creating a Desktop Application powered by Node.js, Electron, Bootstrap, and Express.js</h2>
+<h2>Desktop Application powered by Node.js, Electron, Bootstrap, and Express.js</h2>
 
 <h3>This is an example use-case of the Node.js Desktop Template</h3>
 
