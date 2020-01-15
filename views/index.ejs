@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Node.js Desktop Application using Electron, Bootstrap and Express.js</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css' />
+  <link rel='stylesheet' href='style.css' />
+</head>
+<body>
+
+  <div class="container">   
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="form-style-6">
+      
+       <h1>Enter client details</h1>
+        <form class="border border-light p-5" method="post" action="/form-submit" id="clientform">
+          <div class="form-group">
+
+            <br>
+            <label>Status</label>
+            <select name="status" form="clientform">
+              <option value="mr">Mr</option>
+              <option value="mrs">Mrs</option>
+              <option value="ms">Ms</option>
+            </select>
+
+            <label for="nameInput">First name</label>
+            <input type="type" class="form-control" id="nameInput" placeholder="First name" name="name">
+            <br>
+            <label for="surnameInput">Surname</label>
+            <input type="type" class="form-control" id="surnameInput" placeholder="Surname" name="surname">
+            <br>
+            <label for="nameInput">Postal address</label>
+            <input type="type" class="form-control" id="postalInput" placeholder="Postal address" name="postal">
+            <br>
+            <label for="suburbInput">Suburb</label>
+            <input type="type" class="form-control" id="nameInput" placeholder="Suburb" name="suburb">
+            <br>
+            <label for="stateInput">State</label>
+            <input type="type" class="form-control" id="stateInput" placeholder="State" name="state">
+            <br>
+            <label for="phoneInput">Phone</label>   
+            <input type="type" class="form-control" id="phoneInput" placeholder="Phone" name="phone">
+            <br>
+            <label for="mobileInput">Mobile</label>         
+            <input type="type" class="form-control" id="mobileInput" placeholder="Mobile" name="mobile">
+            <br>
+            <label for="emailInput">Email</label>     
+            <input type="type" class="form-control" id="emailInput" placeholder="Email" name="email">
+            <br>
+            <label for="postcodeInput">Postcode</label>
+            <input type="type" class="form-control" id="postcodeInput" placeholder="Postcode" name="postcode">
+            <br>
+            <label for="faxInput">Fax</label>
+            <input type="type" class="form-control" id="faxInput" placeholder="Fax" name="fax">
+            <br>
+          </div>
+
+          <button type="submit" class="btn btn-primary" id="send" onclick="alert('thank you!')">Submit</button>
+       
+        </form>
+        
+  
+            
+
+        <br>
+        <br>
+        
+    </div>
+  </div>
+
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</body>
+</html>
