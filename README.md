@@ -4,7 +4,7 @@
 
 [Template found here](https://github.com/zero-equals-false/node-desktop-app-template)
 
-This is a Node.js desktop solution for both front-end and back-end, taking data from a form on the front-end and mapping it to specific locations in a word document (data processing). However, this is only one use-case, there are many other uses for Node.js desktop applications out there. 
+This is a Node.js desktop solution for both front-end and back-end, taking data from a form on the front-end and mapping it to specific locations in a word document (data processing). However, *this is only one use-case.*
 
 [Full tutorial here](https://zeroequalsfalse.com/posts/create-a-node-js-desktop-application-with-electron-bootstrap-and-express)
 
