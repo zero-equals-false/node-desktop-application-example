@@ -51,6 +51,6 @@ You can search available integrations on their website here:
 - Create the Desktop executable by [following these instructions](https://electronjs.org/docs/tutorial/application-distribution/)
 - Deploy to the Cloud - [AWS](https://aws.amazon.com/getting-started/projects/deploy-nodejs-web-app/)
 
-<h3>Thank you!</h3>
+<h3>Thank you</h3>
 
-Thank you for choosing this template - currently taking pull requests for improvements. If you like the template, don't forget to leave a star! Happy coding
+Thank you for taking this tutorial - currently taking pull requests for improvements. If you like the template, don't forget to leave a star! Happy coding
