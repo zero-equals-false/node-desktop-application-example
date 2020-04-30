@@ -20,7 +20,7 @@
     "docxtemplater": "^3.16.3",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
-    "jquery": "3.3.1",
+    "jquery": "3.5.0",
     "nodemon": "^2.0.2",
     "pizzip": "^3.0.6"
   },
