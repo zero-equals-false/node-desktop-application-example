@@ -17,7 +17,7 @@
   "license": "CC0-1.0",
   "dependencies": {
     "bootstrap": "4.2.1",
-    "docxtemplater": "^3.16.3",
+    "docxtemplater": "^3.31.4",
     "ejs": "^3.0.1",
     "express": "^4.17.1",
     "jquery": "3.3.1",
